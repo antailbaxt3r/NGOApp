@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "585882671308",
+    "firebase_url": "https://ngoapp-f0bf2.firebaseio.com",
+    "project_id": "ngoapp-f0bf2",
+    "storage_bucket": "ngoapp-f0bf2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:585882671308:android:63eac98f1ca54941ff0a69",
+        "android_client_info": {
+          "package_name": "com.antailbaxt3r.ngoapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "585882671308-9ijhhn8120a7alvoeujilp3n0nv2o1dn.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.antailbaxt3r.ngoapp",
+            "certificate_hash": "9bad31d007c57a55358e03b2d378ec246c7eeec3"
+          }
+        },
+        {
+          "client_id": "585882671308-l2cca5tkc2g0aiueio2ut1pbl2qhv3hi.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBI81Wky2PHF1nrxYxqP2wS3lD7O785pqM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "585882671308-l2cca5tkc2g0aiueio2ut1pbl2qhv3hi.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
